@@ -1,0 +1,10 @@
+Spring MVC
+
+
+when 400 error ocure it means whatever parameter name you have written in java class is not matching with assoctiated html parameter...
+
+
+
+when you use modelattribute you need to create new model package and class  and create pojo class for given html parameter you want to add like requestbody
+
+name of parameter should be always same in both side

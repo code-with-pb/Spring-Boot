@@ -1,0 +1,23 @@
+2024-09-11 16:35:47.147  INFO 11940 --- [restartedMain] com.jbk.TrackMyClassApplication          : Starting TrackMyClassApplication using Java 21.0.4 on Pratiksha with PID 11940 (D:\SpringBoot\TrackMyClass\target\classes started by Pratiksha in D:\SpringBoot\TrackMyClass)
+2024-09-11 16:35:47.149  INFO 11940 --- [restartedMain] com.jbk.TrackMyClassApplication          : No active profile set, falling back to default profiles: default
+2024-09-11 16:35:48.166  INFO 11940 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2024-09-11 16:35:48.167  INFO 11940 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2024-09-11 16:35:59.376  INFO 11940 --- [restartedMain] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2024-09-11 16:35:59.941  INFO 11940 --- [restartedMain] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 180 ms. Found 0 JPA repository interfaces.
+2024-09-11 16:36:13.451  INFO 11940 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8091 (http)
+2024-09-11 16:36:13.557  INFO 11940 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2024-09-11 16:36:13.559  INFO 11940 --- [restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.54]
+2024-09-11 16:36:22.202  INFO 11940 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2024-09-11 16:36:22.203  INFO 11940 --- [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 34032 ms
+2024-09-11 16:36:42.072  INFO 11940 --- [restartedMain] o.hibernate.jpa.internal.util.LogHelper  : HHH000204: Processing PersistenceUnitInfo [name: default]
+2024-09-11 16:36:42.451  INFO 11940 --- [restartedMain] org.hibernate.Version                    : HHH000412: Hibernate ORM core version 5.4.32.Final
+2024-09-11 16:36:43.143  INFO 11940 --- [restartedMain] o.hibernate.annotations.common.Version   : HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2024-09-11 16:36:43.841  INFO 11940 --- [restartedMain] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Starting...
+2024-09-11 16:36:47.146  INFO 11940 --- [restartedMain] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Start completed.
+2024-09-11 16:36:47.211  INFO 11940 --- [restartedMain] org.hibernate.dialect.Dialect            : HHH000400: Using dialect: org.hibernate.dialect.MySQL8Dialect
+2024-09-11 16:36:52.870  INFO 11940 --- [restartedMain] o.h.e.t.j.p.i.JtaPlatformInitiator       : HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2024-09-11 16:36:52.885  INFO 11940 --- [restartedMain] j.LocalContainerEntityManagerFactoryBean : Initialized JPA EntityManagerFactory for persistence unit 'default'
+2024-09-11 16:36:53.825  WARN 11940 --- [restartedMain] JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2024-09-11 16:36:56.772  INFO 11940 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2024-09-11 16:36:56.921  INFO 11940 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8091 (http) with context path ''
+2024-09-11 16:36:57.217  INFO 11940 --- [restartedMain] com.jbk.TrackMyClassApplication          : Started TrackMyClassApplication in 78.454 seconds (JVM running for 86.798)
